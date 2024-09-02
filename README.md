@@ -5,3 +5,5 @@ Fixed for TWW API changes.
 
 Usages:
 WA codes in codes.lua, open it, copy all codes and import it.
+
+Welcome to report any issues.
